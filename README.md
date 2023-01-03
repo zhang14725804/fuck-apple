@@ -8,6 +8,6 @@ What am I doing wrong, I just did an update to the system, it's just that my dev
 
 I'm having the exact same issue with my device：
 
-> https://discussionschinese.apple.com/thread/251190794
+> [iPad在更新系统后无法开机](https://discussionschinese.apple.com/thread/251190794)
 
 Fucking iPadOS, fucking Apple after-sales service, and fucking overlord clauses, you are as disgusting as some government agencies, and the final interpretation is always in your hands!
